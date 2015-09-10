@@ -1,0 +1,5 @@
+C:\Users\Everton Souza\Documents\Visual Studio 2010\Projects\WebApplicationExcel\WebApplicationExcel\bin\WebApplicationExcel.dll
+C:\Users\Everton Souza\Documents\Visual Studio 2010\Projects\WebApplicationExcel\WebApplicationExcel\bin\WebApplicationExcel.pdb
+C:\Users\Everton Souza\Documents\Visual Studio 2010\Projects\WebApplicationExcel\WebApplicationExcel\obj\Debug\WebApplicationExcel.dll
+C:\Users\Everton Souza\Documents\Visual Studio 2010\Projects\WebApplicationExcel\WebApplicationExcel\obj\Debug\WebApplicationExcel.pdb
+C:\Users\Everton Souza\Documents\Visual Studio 2010\Projects\WebApplicationExcel\WebApplicationExcel\obj\Debug\WebApplicationExcel.csprojResolveAssemblyReference.cache
